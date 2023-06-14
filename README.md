@@ -11,7 +11,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<p align="left">
+<p align="center">
 <strong>Projeto desenvolvido no desafio final da trilha Explorer da Rocketseat.</strong><br>
 Neste desafio, foi proposto a criação de FrontEnd e do BackEnd do projeto.
 </p>
